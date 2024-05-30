@@ -1,3 +1,4 @@
+# [multi-LigandDiff](https://github.com/Neon8988/multi_LigandDiff) is now available.
 # LigandDiff
 This repository is the official implementation of the ligands generation for 3D transition metal complexes.![diffusion models](https://github.com/Neon8988/LigandDiff/blob/main/image/example.gif)
 # Dataset
